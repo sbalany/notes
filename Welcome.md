@@ -1,4 +1,4 @@
-How to get repo synced onto a new computer:
+xHow to get repo synced onto a new computer:
 - Login to github.com using your personal account (sbalany).
 - Go to Settings -> Developer settings -> Tokens
 - Copy the API token for the Obsidian App.
