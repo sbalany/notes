@@ -1,1 +1,3 @@
-- Add items here.
+- Shop around for mortgage for Raleigh property.
+- Fix kitchen faucet
+- 
