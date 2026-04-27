@@ -1,3 +1,3 @@
 - Shop around for mortgage for Raleigh property.
-- Fix kitchen faucet
-- 
+- ~~Fix kitchen faucet~~
+- Talk to Abhay Jain about LLC for Raleigh property
